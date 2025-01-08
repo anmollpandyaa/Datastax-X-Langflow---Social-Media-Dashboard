@@ -1,5 +1,5 @@
 
-# Datastax-X-Langflow---Social-Media-Dashboard
+# Datastax-X-Langflow---Social-Media-Analytics-Dashboard
 
 
 A comprehensive Social Media Analytics Dashboard powered by Datastax's AstraDB for robust data storage and Langflow for advanced analytics and seamless integration with Large Language Models (LLMs). This platform aggregates and processes social media engagement metrics such as likes, shares, and comments, providing actionable insights to optimize content strategy and user interaction.
